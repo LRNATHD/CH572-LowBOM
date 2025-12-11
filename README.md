@@ -1,2 +1,1 @@
-# CH572D-Board
-example board using WCH's CH572 Bluetooth microcontroller
+# USB PCB connector, PCB Antenna, almost lowest bill of materials possible
